@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: projects.qmd
+        text: Lab
 
 format:
   html:
@@ -18,3 +20,4 @@ format:
 
 editor: visual
 
+# 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
