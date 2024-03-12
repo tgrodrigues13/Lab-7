@@ -3,14 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "quarto5"
+  title: "My Quarto Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: labs.qmd
+        text: Labs
       - href: projects.qmd
-        text: Lab
+        text: Projects
+      - href: presentation.qmd
+        text: Presentations
 
 format:
   html:
