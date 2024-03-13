@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: monochrome
     css: styles.css
     toc: true
 

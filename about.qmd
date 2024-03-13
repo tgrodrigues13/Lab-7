@@ -1,3 +1,11 @@
 ---
 title: "About"
 ---
+
+This is my first Quarto Webpage that I made in Bio476! My name is Tyler Rodrigues. I am a student at UMass Amherst graduating this spring with a B.S. in Biology. I am looking forward to pursuing a career in environmental conservation and also am very interested in data analysis (thanks to this class!) The following photo is of my family and I attending a wedding in Portugal and it was a great time to see my huge family.
+
+<center>
+
+![](images/Bio476Lab7Pic.jpg){width=300px}
+
+</center>
