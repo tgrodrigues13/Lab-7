@@ -7,5 +7,11 @@
   },
   "projects.qmd": {
     "projects.html": "c40bd385"
+  },
+  "labs.qmd": {
+    "labs.html": "29107efb"
+  },
+  "presentation.qmd": {
+    "presentation.html": "f8d895d6"
   }
 }
